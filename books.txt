@@ -1,17 +1,7 @@
-Pinokyo
-gepetto usta
-1980
-120
-Robin Hood
-LA Kemal
-1870
-140
-Alice Hariklar
-La Mustafa
-1790
-900
-
-Sefiller
-Sefil Bir Adam
-2000
-780
+Pinokyo,Carlo Cardillo,1881,200
+Sefiller,Victor Hugo,1862,350
+Alice Harikalar Diyarýnda,Lewis Carroll,1865,240
+Hayvan Çiftliði,George Orwell,1945,280
+Ateþten Gömlek,Halide Edip Adývar,1922,390
+Sinekli Bakkal ,Halide Edip Adývar,1936,400
+Handan,Halide Edip Adývar,1912,190
