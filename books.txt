@@ -1,7 +1,6 @@
-Pinokyo,Carlo Cardillo,1881,200
 Sefiller,Victor Hugo,1862,350
-Alice Harikalar Diyarında,Lewis Carroll,1865,240
-Hayvan Çiftliği,George Orwell,1945,280
-Ateşten Gömlek,Halide Edip Adıvar,1922,390
-Sinekli Bakkal ,Halide Edip Adıvar,1936,400
-Handan,Halide Edip Adıvar,1912,190
+Hayvan Ã‡iftliÄŸi,George Orwell,1945,280
+AteÅŸten GÃ¶mlek,Halide Edip AdÄ±var,1922,390
+Sinekli Bakkal ,Halide Edip AdÄ±var,1936,400
+Handan,Halide Edip AdÄ±var,1912,190
+Martin Eden,Jack London,1909,155
